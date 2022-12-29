@@ -139,6 +139,7 @@ body {
   letter-spacing: 2px;
   cursor: pointer;
   text-transform: uppercase;
+  border-style: none;
 }
 /* BUTTON HOVERS */
 
